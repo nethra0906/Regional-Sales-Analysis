@@ -1,2 +1,27 @@
 # Regional-Sales-Analysis
-Sales teams often lack a clear, data-driven understanding of regional performance, making it difficult to identify growth opportunities and optimize resources. This project aims to analyse and visualize regional sales data to uncover trends, evaluate profitability, and support strategic decision-making.
+
+**Project Summary**
+This EDA notebook dives into Acme Co.’s 2014–2018 USA sales dataset through:
+
+  **Data Profiling & Cleaning:** Verified schema, handled missing budgets, and corrected data types.
+  
+  **Univariate & Bivariate Analysis:** Explored distributions (revenue, margin, unit price), product/channel/region breakdowns, and customer segments.
+  
+  **Trend & Seasonality:** Charted monthly and yearly sales patterns, highlighting recurring surges and dips.
+  
+  **Outlier Detection:** Identified extreme transactions at both ends of the revenue and unit-price spectra.
+  
+  **Correlation & Segmentation:** Assessed relationships between key metrics and clustered customers by revenue vs. profit margin.
+
+**Problem Statement**
+Analyze Acme Co.’s 2014–2018 sales data to identify key revenue and profit drivers across products, channels, and regions; uncover seasonal trends and outliers; and align performance against budgets. Use these insights to optimize pricing, promotions, and market expansion for sustainable growth and reduced concentration risk.
+
+**Objective**
+Deliver actionable insights from Acme Co.’s 2014–2018 sales data to:
+
+- Identify top-performing products, channels, and regions driving revenue and profit  
+- Uncover seasonal trends and anomalies for optimized planning  
+- Spot pricing and margin risks from outlier transactions  
+- Inform pricing, promotion, and market-expansion strategies  
+
+These findings will guide the design of a Power BI dashboard to support strategic decision-making and sustainable growth.
